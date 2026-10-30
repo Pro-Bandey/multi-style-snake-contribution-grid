@@ -1,4 +1,4 @@
-name: Marketplace Daily Release
+name: Marketplace Weekly Release
 
 on:
   schedule:
